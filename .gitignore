@@ -1,0 +1,18 @@
+# Maven
+target/
+build/
+
+# Eclipse
+.metadata/
+.settings/
+
+# Compiled Java files
+*.class
+
+# Local configuration
+.env
+*.env
+db.properties
+
+# Temporary files
+*.log
